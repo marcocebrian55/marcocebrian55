@@ -4,10 +4,11 @@ Full Stack Developer apasionado por la creación de soluciones eficientes y esca
 Vengo del mundo de las finanzas, lo que me aporta una visión analítica única al escribir código.
 
 ### 🛠️ Tecnologías y Herramientas
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
-- **Backend:** Python, Flask, SQLAlchemy.
-- **Base de Datos:** PostgreSQL, SQL.
-- **Herramientas:** Git, GitHub, Postman, REST APIs.
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 Proyectos Destacados
 - **[WOD GENERATOR]:** Aplicación diseñada para la comunidad fitness que genera rutinas de entrenamiento diarias (Workout of the Day) personalizadas, optimizando la gestión de ejercicios mediante una interfaz dinámica en React.
