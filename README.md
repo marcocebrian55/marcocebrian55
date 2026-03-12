@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Marco Marirrodriga 👋
 
-<!--
-**marcocebrian55/marcocebrian55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer apasionado por la creación de soluciones eficientes y escalables. 
+Vengo del mundo de las finanzas, lo que me aporta una visión analítica única al escribir código.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+- **Backend:** Python, Flask, SQLAlchemy.
+- **Base de Datos:** PostgreSQL, SQL.
+- **Herramientas:** Git, GitHub, Postman, REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+- **[WOD GENERATOR]:** Aplicación diseñada para la comunidad fitness que genera rutinas de entrenamiento diarias (Workout of the Day) personalizadas, optimizando la gestión de ejercicios mediante una interfaz dinámica en React.
+- **[JWT INIT]:** Boilerplate de autenticación robusta utilizando JSON Web Tokens (JWT). Una base sólida para proyectos Full Stack que requieren gestión segura de usuarios y protección de rutas en el backend con Flask.
+
+📫 Cómo contactarme: https://www.linkedin.com/in/marco-marirrodriga/
